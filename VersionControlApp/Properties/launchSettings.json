@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "VersionControlApp": {
+      "commandName": "Project",
+      "commandLineArgs": "minor"
+    }
+  }
+}

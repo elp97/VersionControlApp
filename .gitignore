@@ -1,0 +1,6 @@
+
+/.vs
+/VersionControlApp.Tests/bin
+/VersionControlApp.Tests/obj
+/VersionControlApp/obj
+/VersionControlApp/bin
